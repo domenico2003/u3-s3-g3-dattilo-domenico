@@ -21,7 +21,7 @@ const MainSecondary = ({
                   onClick={() => {
                     setArticleSelected(article);
                   }}
-                  className="card-secondary"
+                  className="card-secondary cursor"
                 >
                   <Card.Img
                     variant="top"
